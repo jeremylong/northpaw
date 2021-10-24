@@ -1,0 +1,35 @@
+"North Paw V2.0 Kit Bill of Materials (BOM)",,,
+"description","quantity/board","manufacturer","manu. part num."
+"Microcontroller (arduino compatible)",1,"Atmel","ATMEGA168-20PU"
+"8-bit power shift reg, 16 dip",1,"Texas Instruments","TPIC6C595N"
+"3 lead ceramic resonator 8MHz",1,"Murata","CSTLS8M00G53-B0"
+"switch, slider",1,"C&K Components","OS202011MA0QS1"
+"RA 5x2 motor socket",1,"Omron Electronics","XG4C-1034"
+"1x3 compass socket rt angle",1,"Sullins Connector","PPTC031LGBN-RC"
+"2x3 compass socket rt angle",1,"Sullins Connector","PPTC032LJBN"
+"short 100uF 10V electrolytic cap",1,"Panasonic ECG","ECE-A1AKS470"
+"0.1uF capacitor",2,"Jameco",25523
+"10K resistor, 3.3mm body",2,"Yageo","CFR-12JB-10K"
+"LED, green, 2.54mm",1,,"MV5474C"
+"custom Northpaw board",1,,"(made in China)"
+"10 conductor ribbon cable, 25'",1,"Assmann","AE10G-25-ND"
+"keyed 5x2 ribbon cable snap",1,"Omron Electronics","XG4M-1030-U"
+"pager motor, 10mm x 3.5mm",8,,"(chinese large lot deal)"
+"Electronic enclosure box",1,,"(chinese custom made)"
+"3-axis compass / 3-axis accelerometer module",1,"Pololu/ST",1273
+"860mAh LiPo Battery",1,"Unionfortune",63048
+"USB Mini Jack",1,"Molex","54819-0519"
+"JST Connector, side entry",1,"JST","S2B-PH-K-S(LF)(SN)"
+"LiPo Charging IC",1,"Maxim","MAX1555EZK+T"
+"LED red, 2.54mm",1,"Jameco",94529
+"resistor, 330 ohm",1,"Xicon","299-330-RC"
+"cap, 1uF",1,"Jameco",545596
+,,,
+"Armature",,,
+"Veltex Display Loop",,,
+"10.5"" custom zipper, #3 nylon black",,,
+"Velvet, 4-way stretch",,,
+"Velcro hook, sticky back, 2"" black",,,
+"Velcro hook, sticky back, 1"" black",,,
+"Velcro hook, 3/8” dots",,,
+"Velcro hook, sewing 1"" back",,,
